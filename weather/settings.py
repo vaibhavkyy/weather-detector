@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-j6+(8i-jog+vz84f862zi@=dj*qavq&s1^oyjk0dwh6!j@7w(=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://vaibhavkyy.github.io/weather-detector/']
 
 
 # Application definition
